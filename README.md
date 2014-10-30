@@ -1,4 +1,4 @@
 brewnalysis
 ===========
 
-A brewing analysis, tracking, and toolset project
+A beer brewing analysis, tracking, and toolset project
